@@ -1,5 +1,4 @@
 # Produtos.Barbearia.Alura
-# BarbeariaAlura
 
 -Esse projeto foi desenvolvido através do curso do Alura: https://cursos.alura.com.br/course/html-css-posicionamento-listas-navegacao;
 
